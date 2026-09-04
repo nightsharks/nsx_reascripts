@@ -1,4 +1,4 @@
--- @description ReaImGUI Theme
+-- @description Track Saturation Gradients
 -- @author nightsharks
 -- @version 1.0
 -- @about
