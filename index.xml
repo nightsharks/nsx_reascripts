@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="nsx_reascripts" commit="4f2e1035722b67ad7ffd1d28287fb1cedc11fcf2">
+<index version="1" name="nsx_reascripts" commit="4987710a24b5f66260b280d37fe84b63f521cb8f">
   <category name="Colors">
     <reapack name="NSX_SaturationGradient.lua" type="script" desc="Track Saturation Gradients">
       <metadata>
@@ -13,6 +13,22 @@
       </metadata>
       <version name="1.0" author="nightsharks" time="2026-09-04T00:55:34Z">
         <source main="main">https://github.com/nightsharks/nsx_reascripts/raw/e8839fe086652cfa9e2c6e53fda2c1aeb84f40cb/Colors/NSX_SaturationGradient.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Very Specific QOL">
+    <reapack name="NSX_AppendUnderscore.lua" type="script" desc="Append Underscore">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 literally all this does is append an underscore with a reaper action\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="nightsharks" time="2026-09-04T19:29:18Z">
+        <source main="main">https://github.com/nightsharks/nsx_reascripts/raw/4987710a24b5f66260b280d37fe84b63f521cb8f/Very%20Specific%20QOL/NSX_AppendUnderscore.lua</source>
       </version>
     </reapack>
   </category>
