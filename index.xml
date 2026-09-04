@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="nsx_reascripts" commit="8175d4e324ef08be30b439e8630069be0d95bbf8">
+<index version="1" name="nsx_reascripts" commit="e8839fe086652cfa9e2c6e53fda2c1aeb84f40cb">
+  <category name="Colors">
+    <reapack name="NSX_SaturationGradient.lua" type="script" desc="ReaImGUI Theme">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 recolors tracks in a nice way that makes me happy\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="nightsharks" time="2026-09-04T00:55:34Z">
+        <source main="main">https://github.com/nightsharks/nsx_reascripts/raw/e8839fe086652cfa9e2c6e53fda2c1aeb84f40cb/Colors/NSX_SaturationGradient.lua</source>
+      </version>
+    </reapack>
+  </category>
   <category name="Example">
     <reapack name="cfillion_Hello world.lua" type="script" desc="Hello world">
       <metadata>
